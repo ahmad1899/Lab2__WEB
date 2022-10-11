@@ -16,7 +16,7 @@ Menambahkan deklarasi CSS internal seperti berikut pada bagian head dokumen.
 ## LANGKAH 3
 Kemudian tambahkan deklarasi inline CSS pada tag `<p>` seperti berikut.
 
-![step-3](https://imgur.com/ldUoyeH)
+![step-3](https://imgur.com/ldUoyeH.png)
 
 ## LANGKAH 4
 Membuat file baru dengan nama style_eksternal.css, kemudian mendeklarasikan CSS seperti berikut.

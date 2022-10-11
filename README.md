@@ -6,7 +6,8 @@
 ## LANGKAH 1
 Membuat dokumen HTML
 
-![step-1] (<blockquote class="imgur-embed-pub" lang="en" data-id="9sl4Ced"><a href="https://imgur.com/9sl4Ced">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
+! [Step-1]  https://imgur.com/UbP6fBT.png
+
 
 ## LANGKAH 2
 Menambahkan deklarasi CSS internal seperti berikut pada bagian head dokumen. 

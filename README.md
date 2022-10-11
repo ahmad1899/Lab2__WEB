@@ -6,7 +6,7 @@
 ## LANGKAH 1
 Membuat dokumen HTML
 
-![step-1](https://imgur.com/9sl4Ced)
+![step-1] (https://imgur.com/9sl4Ced)
 
 ## LANGKAH 2
 Menambahkan deklarasi CSS internal seperti berikut pada bagian head dokumen. 

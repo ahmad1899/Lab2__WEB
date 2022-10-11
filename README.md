@@ -11,7 +11,7 @@ Membuat dokumen HTML
 ## LANGKAH 2
 Menambahkan deklarasi CSS internal seperti berikut pada bagian head dokumen. 
 
-![step-2] (https://imgur.com/J98jx3V)
+![step-2]  (https://imgur.com/J98jx3V.png)
 
 ## LANGKAH 3
 Kemudian tambahkan deklarasi inline CSS pada tag `<p>` seperti berikut.

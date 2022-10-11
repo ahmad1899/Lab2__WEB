@@ -6,12 +6,12 @@
 ## LANGKAH 1
 Membuat dokumen HTML
 
-![step-1] (https://imgur.com/9sl4Ced)
+![step-1] (<blockquote class="imgur-embed-pub" lang="en" data-id="9sl4Ced"><a href="https://imgur.com/9sl4Ced">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
 
 ## LANGKAH 2
 Menambahkan deklarasi CSS internal seperti berikut pada bagian head dokumen. 
 
-![step-2]  (https://imgur.com/J98jx3V.png)
+![step-2]  
 
 ## LANGKAH 3
 Kemudian tambahkan deklarasi inline CSS pada tag `<p>` seperti berikut.
@@ -21,13 +21,13 @@ Kemudian tambahkan deklarasi inline CSS pada tag `<p>` seperti berikut.
 ## LANGKAH 4
 Membuat file baru dengan nama style_eksternal.css, kemudian mendeklarasikan CSS seperti berikut.
 
-![step-4-1](https://imgur.com/ZUaFncf)
+![step-4-1](https://imgur.com/ZUaFncf.png)
 
 
 ## LANGKAH 5
 Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada file `style_eksternal.css`
 
-![step-5](https://imgur.com/poOBFHe)
+![step-5](https://imgur.com/poOBFHe.png)
 
 # Jawab Pertanyaan Berikut
 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS

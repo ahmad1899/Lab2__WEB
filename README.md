@@ -6,28 +6,28 @@
 ## LANGKAH 1
 Membuat dokumen HTML
 
-![step-1](https://imgur.com/rOqaYCZ.png)
+![step-1](https://imgur.com/9sl4Ced)
 
 ## LANGKAH 2
 Menambahkan deklarasi CSS internal seperti berikut pada bagian head dokumen. 
 
-![step-2](https://imgur.com/ShjJLMy.png)
+![step-2] (https://imgur.com/J98jx3V)
 
 ## LANGKAH 3
 Kemudian tambahkan deklarasi inline CSS pada tag `<p>` seperti berikut.
 
-![step-3](https://imgur.com/lxT59rN.png)
+![step-3](https://imgur.com/ldUoyeH)
 
 ## LANGKAH 4
 Membuat file baru dengan nama style_eksternal.css, kemudian mendeklarasikan CSS seperti berikut.
 
-![step-4-1](https://imgur.com/GPQHimC.png)
-![step-4-2](https://imgur.com/JxW21Jl.png)
+![step-4-1](https://imgur.com/ZUaFncf)
+
 
 ## LANGKAH 5
 Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada file `style_eksternal.css`
 
-![step-5](https://imgur.com/ZOTOn1t.png)
+![step-5](https://imgur.com/poOBFHe)
 
 # Jawab Pertanyaan Berikut
 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS
